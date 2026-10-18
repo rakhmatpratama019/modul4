@@ -415,8 +415,6 @@ int main() {
 ### 2.4 Screenshot Output Guided
 ![Ilustrasi output Guided](LatSoal1_Week4.png)
 
-*Ganti ilustrasi ini dengan screenshot asli hasil Build and Run dari program Guided.*
-
 ## 3. Unguided
 
 ### 3.1 Tujuan Program
@@ -652,8 +650,6 @@ int main() {
 
 ### 3.4 Screenshot Output Unguided
 ![Ilustrasi output Unguided](Singlylist.png)
-
-*Ganti ilustrasi ini dengan screenshot asli hasil Build and Run dari program Unguided.*
 
 ### 3.5 Hasil yang Diharapkan
 ```text
